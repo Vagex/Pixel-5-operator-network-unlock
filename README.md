@@ -1,4 +1,4 @@
-# Pixel-5-NR-unlocked-by-Chinese-operators
+# Force unlocking of carrier networks not supported by pixel 5
 This is a magisk module, which can unlock Google’s network restrictions for China and allow Chinese users to use 5G network
 
 This module is for Chinese users
