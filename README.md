@@ -1,5 +1,5 @@
 # Force unlocking of carrier networks not supported by pixel 5
-This module will Unlock 5G network,And forcibly open the communication function, so that Pixel 5 unsupported carrier network can be used normally. so that Pixel 5 unsupported carrier network can be used normally.
+This module will unlock 5G network, and forcibly open the communication function, so that Pixel 5 unsupported carrier network can be used normally.
 
 The magisk module requires Magisk Manager dependency.
 
