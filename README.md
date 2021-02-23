@@ -14,4 +14,4 @@ Pixel 5三网解锁模块，并且解锁VoLTE,VoWIFI
 
 如果你还没root，可以选择先去看[教程](https://blog.csdn.net/Ender_Zhao/article/details/109370946)
 ****
-### [向我捐赠](https://github.com/ender-zhao/EZc/blob/main/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.png)
+### [向我捐赠](https://github.com/ender-zhao/EZc)
