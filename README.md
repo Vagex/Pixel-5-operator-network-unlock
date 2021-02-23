@@ -8,7 +8,7 @@ The magisk module requires Magisk Manager dependency.
 #### Quick navigation
 If your phone does not lack mbn files, please use this [module](https://github.com/ender-zhao/Pixel-5-operator-network-unlock/releases/tag/1-Mini)
 ****
-Chinese:
+中文:
 
 Pixel 5三网解锁模块，并且解锁VoLTE,VoWIFI
 
