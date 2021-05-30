@@ -12,5 +12,9 @@ If your phone does not lack mbn files, please use this [module](https://github.c
 
 Pixel 5三网解锁模块，并且解锁VoLTE,VoWIFI
 ****
-### [向我捐赠](https://github.com/ender-zhao/EZc)
-#### [考虑到有人不会使用GitHub，点此快速导航至下载链接](https://github.com/ender-zhao/Pixel-5-operator-network-unlock/releases)
+## 封闭该库
+### 由于我发现已经有比我做得更好的模块出现
+### 这使得我维护变得毫无意义
+### 除非我有创新发现，否则该库永久关闭
+
+**该库锁定**
